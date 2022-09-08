@@ -1,0 +1,5 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - gonna_be_rich.ipynb

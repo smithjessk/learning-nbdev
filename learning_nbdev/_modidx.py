@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'master',
                 'doc_host': 'https://smithjessk.github.io',
                 'git_url': 'https://github.com/smithjessk/learning-nbdev',
                 'lib_path': 'learning_nbdev'},
-  'syms': {'learning_nbdev.core': {'learning_nbdev.core.foo': ('core.html#foo', 'learning_nbdev/core.py')}}}
+  'syms': { 'learning_nbdev.billy': { 'learning_nbdev.billy.add': ('gonna_be_rich.html#add', 'learning_nbdev/billy.py'),
+                                      'learning_nbdev.billy.sub': ('gonna_be_rich.html#sub', 'learning_nbdev/billy.py')},
+            'learning_nbdev.core': {'learning_nbdev.core.add': ('core.html#add', 'learning_nbdev/core.py')}}}
