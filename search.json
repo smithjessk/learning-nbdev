@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "learning-nbdev",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "learning-nbdev",
+    "section": "Install",
+    "text": "Install\npip install learning_nbdev"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "learning-nbdev",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "billy.html",
+    "href": "billy.html",
+    "title": "my main project- my next billion dollar company",
+    "section": "",
+    "text": "source\n\nadd\n\n add (x, y)\n\nAdd two numbers together\n\nsource\n\n\nsub\n\n sub (x, y)\n\nSubtract two numbers\n\nfrom fastcore.test import *\n\ntest_eq(add(1, 2), 3)\n\ntest_eq(sub(1, 2), -1)\n\nAssertionError: ==:\n-1\n-100"
+  }
+]
